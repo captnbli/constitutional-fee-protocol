@@ -10,7 +10,7 @@
     "clean": "rm -rf cache artifacts coverage typechain"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.10"
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.1",
+    "hardhat": "^3.1.3"
   }
 }
