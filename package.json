@@ -1,0 +1,16 @@
+{
+  "name": "constitutional-fee-protocol",
+  "version": "0.1.0",
+  "description": "A demo of a constitutional, decreasing protocol fee based on global trailing volume (Ethereum L2-friendly).",
+  "license": "MIT",
+  "scripts": {
+    "build": "hardhat compile",
+    "test": "hardhat test",
+    "lint": "echo \"(optional) add solhint/eslint\"",
+    "clean": "rm -rf cache artifacts coverage typechain"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.10"
+  }
+}
