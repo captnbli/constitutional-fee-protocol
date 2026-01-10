@@ -6,7 +6,7 @@ This repository is intended to be a starting point for discussion and experiment
 
 You can read the [Motivation](Motivation.md) for this project
 
-And the [Engineering Perspecive is here](Motivation.md) 
+And the [Engineering Perspecive is here](EngineeringPerspective.md) 
 
 ## What this is
 
