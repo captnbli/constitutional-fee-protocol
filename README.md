@@ -4,6 +4,8 @@ A minimal, **forkable** reference implementation of a “constitutional” proto
 
 This repository is intended to be a starting point for discussion and experimentation (e.g. on ethresear.ch), not a production-ready fundraising or payments system.
 
+You can read the motivation for this project here: `Motivation.md`
+
 ## What this is
 
 - A Solidity fee model where the protocol fee is a deterministic function of **global trailing volume**.
