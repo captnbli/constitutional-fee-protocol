@@ -4,7 +4,9 @@ A minimal, **forkable** reference implementation of a “constitutional” proto
 
 This repository is intended to be a starting point for discussion and experimentation (e.g. on ethresear.ch), not a production-ready fundraising or payments system.
 
-You can read the motivation for this project here: [Motivation.md](Motivation.md)
+You can read the [Motivation](Motivation.md) for this project
+
+And the [Engineering Perspecive is here](Motivation.md) 
 
 ## What this is
 
